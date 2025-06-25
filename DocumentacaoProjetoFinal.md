@@ -58,14 +58,40 @@ Back-End:
 
 ## Descrição da Solução
 
+Ao abordar os problemas do salão de beleza, nós desenvolvemos as seguintes soluções:
+
+* Auto-atendimento
+  Transferindo o fluxo de usuários para o site, melhoraremos a qualidade do atendimento e o tempo de resposta do cliente, mostrando a ele a qualquer momento todos os horários e profissionais disponíveis em um calendário interativo e simples, melhorando a experiência do
+  cliente.
+
+* Taxa de agendamento
+  Aplicamos também uma taxa de agendamento, que será descontada na hora do pagamento no local de atendimento, assim eliminando a perda de dinheiro e horários com clientes que faziam agendamentos e não compareciam ou desmarcavam horas antes. Caso o cliente cancele o agendamento com antecedencia, terá seu dinheiro reembolsado sem custos adicionais.
+
+* Visualização de agendamentos
+  Com uma interface fácil e simples de ser acessada e monitorada, facilitamos a visualização do fluxo de agendamentos e de receita mensal do salão, com gráficos e estatísticas que podem facilitar a visualização de métricas como quantidade de agendamentos, estimativa de receita e lucro gerado com agendamentos efetivados.
+
 ## Arquitetura
+
+
 
 ## Validação
 
+
+
 ### Estratégia
+
+
 
 ### Consolidação dos Dados Coletados
 
+
+
 ## Conclusões
 
+
+
 ## Referências Bibliográficas
+
+https://ui.shadcn.com/docs
+https://react.dev/
+
