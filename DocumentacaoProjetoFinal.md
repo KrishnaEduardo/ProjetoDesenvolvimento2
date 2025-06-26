@@ -74,24 +74,21 @@ Ao abordar os problemas do salão de beleza, nós desenvolvemos as seguintes sol
 
 
 
-## Validação
-
-
-
-### Estratégia
-
-
-
-### Consolidação dos Dados Coletados
-
-
-
 ## Conclusões
 
+Para o funcionamento completo da aplicação web (site), é essencial a participação de clientes ativos.
 
+O projeto atingiu com sucesso seu objetivo no escopo do MVP, permitindo o agendamento de serviços, escolha de profissionais e aplicação da taxa de agendamento. 
+A solução foi validada por meio da avaliação da dona do salão de beleza.
+
+Ideias Futuras
+Foi decidida uma melhoria para a aplicação:
+
+Desenvolvimento e inclusão de um chatbot para a ajuda e apoio para usuários com mais dificuldade de utilizar a aplicação.
 
 ## Referências Bibliográficas
 
 https://ui.shadcn.com/docs
 https://react.dev/
+
 
