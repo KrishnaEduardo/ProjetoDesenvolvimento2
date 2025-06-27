@@ -72,6 +72,8 @@ Ao abordar os problemas do salão de beleza, nós desenvolvemos as seguintes sol
 
 Para o desenvolvimento da arquitetura seguimos os princípios do Clean Code e as melhores práticas de desenvolvimento, sempre com o objetivo de proporcionar a melhor experiência para o usuário.
 
+![Melhores práticas](https://github.com/KrishnaEduardo/ProjetoDesenvolvimento2/blob/main/image.png?raw=true)
+
 ## Conclusões
 
 Para o funcionamento completo da aplicação web (site), é essencial a participação de clientes ativos.
