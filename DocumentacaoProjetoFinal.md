@@ -1,4 +1,4 @@
-# Documentando o Projeto Final de ADS
+# Rosy - Aplicação web de salão de beleza
 
 _Krishna Eduardo e Gabriel Varysco_
 
@@ -54,7 +54,8 @@ Traz vários benefícios, como desenvolvimento rápido, fácil implementação d
 Back-End:
 
 * Next.js (Criação de API)
-* Supabase, Firebase, MongoDB (Em discussão)
+* Supabase (postgreSQL)
+
 
 ## Descrição da Solução
 
@@ -70,7 +71,11 @@ Ao abordar os problemas do salão de beleza, nós desenvolvemos as seguintes sol
 * Visualização de agendamentos
   Com uma interface fácil e simples de ser acessada e monitorada, facilitamos a visualização do fluxo de agendamentos e de receita mensal do salão, com gráficos e estatísticas que podem facilitar a visualização de métricas como quantidade de agendamentos, estimativa de receita e lucro gerado com agendamentos efetivados.
 
+
 ## Arquitetura
+
+Para o desenvolvimento da arquitetura seguimos os princípios do Clean Code e as melhores práticas de desenvolvimento, sempre com o objetivo de proporcionar a melhor experiência para o usuário.
+
 
 
 
@@ -79,16 +84,19 @@ Ao abordar os problemas do salão de beleza, nós desenvolvemos as seguintes sol
 Para o funcionamento completo da aplicação web (site), é essencial a participação de clientes ativos.
 
 O projeto atingiu com sucesso seu objetivo no escopo do MVP, permitindo o agendamento de serviços, escolha de profissionais e aplicação da taxa de agendamento. 
-A solução foi validada por meio da avaliação da dona do salão de beleza.
+A solução foi validada por meio da avaliação da cliente (proprietaria do salão de beleza).
 
-Ideias Futuras
-Foi decidida uma melhoria para a aplicação:
 
-Desenvolvimento e inclusão de um chatbot para a ajuda e apoio para usuários com mais dificuldade de utilizar a aplicação.
+## Ideias Futuras
+
+* Desenvolvimento e inclusão de um chatbot para a ajuda e apoio de usuários com dificuldade e dúvidas.
+* 
+
 
 ## Referências Bibliográficas
 
-https://ui.shadcn.com/docs
-https://react.dev/
+* MARTIN, Robert C. Código limpo: habilidades práticas do Agile software. 1. ed. São Paulo: Alta Books, 2009.
+* https://ui.shadcn.com/docs
+* https://react.dev/
 
 
