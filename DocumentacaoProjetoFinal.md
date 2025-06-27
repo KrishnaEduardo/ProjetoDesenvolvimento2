@@ -1,4 +1,4 @@
-# Documentando o Projeto Final de ADS
+# Rosy - Aplicação web de salão de beleza
 
 _Krishna Eduardo e Gabriel Varysco_
 
@@ -27,7 +27,6 @@ Colocando um valor simbólico para fazer o agendamento, que será descontado do 
 * Facilitamos a visualização do fluxo de agendamentos e de receita no período que for escolhido para ser visualizado.
 Com gráficos e estatísticas para facilitar o entendimento de algumas métricas, tais como: quantos agendamentos foram realizados em determinado período de tempo, estimativa de receita gerada e valores gerados apenas dos agendamentos.
 
-
 ## Objetivos
 
 O objetivo geral é transferir o fluxo de usuários que fazem o agendamento pelo WhatsApp para que comecem a utilizar o site. Também esperamos as seguintes coisas:
@@ -36,7 +35,6 @@ O objetivo geral é transferir o fluxo de usuários que fazem o agendamento pelo
 * Reduzir o trabalho desnecessário dos colaboradores do salão de beleza, automatizando processos.
 * Facilitar a visualização dos agendamentos do dia.
 * Ajudar a ter um controle financeiro melhor.
-
 
 ## Stack Tecnológico
 
@@ -54,7 +52,7 @@ Traz vários benefícios, como desenvolvimento rápido, fácil implementação d
 Back-End:
 
 * Next.js (Criação de API)
-* Supabase, Firebase, MongoDB (Em discussão)
+* Supabase (postgreSQL)
 
 ## Descrição da Solução
 
@@ -72,23 +70,23 @@ Ao abordar os problemas do salão de beleza, nós desenvolvemos as seguintes sol
 
 ## Arquitetura
 
-
+Para o desenvolvimento da arquitetura seguimos os princípios do Clean Code e as melhores práticas de desenvolvimento, sempre com o objetivo de proporcionar a melhor experiência para o usuário.
 
 ## Conclusões
 
 Para o funcionamento completo da aplicação web (site), é essencial a participação de clientes ativos.
 
 O projeto atingiu com sucesso seu objetivo no escopo do MVP, permitindo o agendamento de serviços, escolha de profissionais e aplicação da taxa de agendamento. 
-A solução foi validada por meio da avaliação da dona do salão de beleza.
+A solução foi validada por meio da avaliação da cliente (proprietaria do salão de beleza).
 
-Ideias Futuras
-Foi decidida uma melhoria para a aplicação:
-
-Desenvolvimento e inclusão de um chatbot para a ajuda e apoio para usuários com mais dificuldade de utilizar a aplicação.
+### Ideias Futuras
+* Desenvolvimento e inclusão de um chatbot para a ajuda e apoio de usuários com dificuldade e dúvidas de como utilizar a aplicação.
+* Aplicativo mobile
+* Programa de fidelidade
 
 ## Referências Bibliográficas
 
-https://ui.shadcn.com/docs
-https://react.dev/
-
+* MARTIN, Robert C. Código limpo: habilidades práticas do Agile software. 1. ed. São Paulo: Alta Books, 2009.
+* https://ui.shadcn.com/docs
+* https://react.dev/
 
